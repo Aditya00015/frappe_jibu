@@ -112,6 +112,9 @@ app_license = "MIT"
 # 	"ToDo": "custom_app.overrides.CustomToDo"
 # }
 
+override_doctype_class = {
+	"Insights Settings": "pos_extension.pos_extension.overrides.insights_settings.CustomInsightsSettings"
+}
 # Document Events
 # ---------------
 # Hook on document methods and events
