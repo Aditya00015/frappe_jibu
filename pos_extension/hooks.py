@@ -113,7 +113,7 @@ app_license = "MIT"
 # }
 
 override_doctype_class = {
-	"Insights Settings": "pos_extension.pos_extension.overrides.insights_settings.custom_before_save"
+	"Insights Settings": "pos_extension.pos_extension.overrides.insights_settings.CustomInsightsSettings"
 }
 # Document Events
 # ---------------
