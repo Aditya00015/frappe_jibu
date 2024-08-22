@@ -1,0 +1,18 @@
+[
+ {
+  "allow_subquery": 0,
+  "auto_execute_query": 0,
+  "docstatus": 0,
+  "doctype": "Insights Settings",
+  "enable_permissions": 0,
+  "fiscal_year_start": null,
+  "is_subscribed": 0,
+  "modified": "2024-06-28 12:03:47.300465",
+  "name": "Insights Settings",
+  "onboarding_complete": 0,
+  "query_result_expiry": 10,
+  "query_result_limit": 100000000000000,
+  "setup_complete": 1,
+  "telegram_api_token": null
+ }
+]
